@@ -8,13 +8,15 @@ Bu repositoriya, süni intellekt və məhsul inkişafı sahəsində keçdiyim ku
 
 ---
 
-## 🎓 Bitirdiyim kurslar
 
-### ✅ [AI For Everyone – Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
-- Süni intellektin real istifadəsi və yanlış anlayışlar
-- AI məhsullarında texniki və texniki olmayan rollar
-- Data və etik yanaşmalar
-- İş dünyasında AI transformasiyası
+- ### 🎓 Completed Certifications
+
+| 📄 Sertifikat | 🔗 Link |
+|--------------|--------|
+| AI For Everyone – Coursera | [View PDF](https://github.com/ilhamverse/certificates/blob/main/ai-for-everyone.pdf) |
+| Product Management – LinkedIn Learning | [View PDF](https://github.com/ilhamverse/certificates/blob/main/product-management.pdf) |
+| Agile Fundamentals – Scrum Foundation | [View PDF](https://github.com/ilhamverse/certificates/blob/main/agile-fundamentals.pdf) |
+
 
 📜 **Sertifikat statusu:** Tamamlandı  
 📎 **Sertifikat faylı**: `certificates/ai-for-everyone.pdf` *(əlavə edə bilərsən)*
